@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/broken-promise-tears/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Broken Promise Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/broken-promise-tears/) |
+| **Get License** | [Music Rights & Licensing for Broken Promise Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/broken-promise-tears/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Looking at the stars, feeling the midnight cold
+> It's your body, your heat that I want to hold
+> There's a spark in your eyes that I can't erase
+> Every broken promise fades when I touch your face
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
