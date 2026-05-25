@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Broken Promise Tears
+
+This log tracks the cryptographic history and versioning for the song **Broken Promise Tears** (broken-promise-tears).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T14:21:24.418064 | `v1` | `0b9a56bfc8d19da2c34f543eede0d63b400c3933a412155eb928e29d97ffae75` | `7186f69cb1d7fcb5d76437965f8c5c96173458f0198c093ee4b2a18fd8604991` | `2026-05-25_broken-promise-tears-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
